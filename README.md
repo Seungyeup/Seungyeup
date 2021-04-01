@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Seungyeup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungyeup&show_icons=true&theme=dark)
+[![Seungyeup'sTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungyeup)](https://github.com/Seungyeup/github-readme-stats)
