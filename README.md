@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ### junior Backend Engineer 🌱
 ![Seungyeup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungyeup&show_icons=true&theme=dark)
 
-## Most used Langs in my Repos
+### Most used Langs in my Repos ⚡
 [![Most used Langs in my Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungyeup&layout=compact&langs_count=8)](https://github.com/Seungyeup/github-readme-stats)
