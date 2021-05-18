@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Junior Backend Developer 🌱
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungyeup%2Fhit-counter&count_bg=%2378F51A&title_bg=%23000000&icon=&icon_color=%2375F541&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![Hits](https://img.shields.io/github/followers/Seungyeup?label=Follow)
 
-![Seungyeup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungyeup&show_icons=true&theme=dark&?count_private=true&hide=issues&line_height=24)&nbsp;
+![Seungyeup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungyeup&show_icons=true&theme=dark&?count_private=true&hide=issues&line_height=24)
 [![Most used Langs in my Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungyeup&layout=compact&langs_count=8&theme=dark&hide=html,css)](https://github.com/Seungyeup/github-readme-stats)
 
 
