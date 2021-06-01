@@ -21,7 +21,7 @@
  📝 Experience !
   + [Samsung SW Academy For Youth 5th](https://www.ssafy.com/ksp/servlet/swp.content.controller.SwpContentServlet) : 2021.01 ~
   + Industry-University Cooperation Internship and Projects(except my own)
-    + Stress prediction model dev, LOCS Corp : 2020.09 ~ 2020.12
+    + Stress-prediction ML model dev, LOCS Corp : 2020.09 ~ 2020.12
     + Pusan National University R&D Department, Professor thesis analysis dev : 2020.05 ~ 2020.07
     + Kakao chatbot(name : 부산언니), NLP module dev Cafe24 web-app dev, Chatis Corp : 2019.09 ~ 2019.12
     + 한국학습컨설팅센터 web-page dev, Iamcoop : 2019.04 ~ 2019.9
