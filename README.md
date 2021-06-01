@@ -1,33 +1,24 @@
 
 
-<!--
-**Seungyeup/Seungyeup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 🔥
-
-
-🔥 I’m currently learning ..
+# Hi there, I'm Seungyeup 👋
 
 <br>
 
-⚡ Status
+🌱 Passionate, fast-growing junior backend developer who's also interested in Data Science😍<br>
+🔭 I’m currently working on flask-based asynchronous chatting platfrom! <br>
+🔥 I’m currently learning.. how to extract and load data more effectively? <br>
+👯 Hope to build the world a better place with techs, just like my blog name! <br>
+
+<br>
+
+⚡ Status !
 
 ![Seungyeup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungyeup&show_icons=true&hide_border=true&theme=dark&?count_private=true&line_height=24)
 [![Most used Langs in my Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungyeup&layout=compact&hide_border=true&langs_count=8&theme=dark&hide=html,css,scss,c,hack)](https://github.com/Seungyeup/github-readme-stats)
 
 <br/>
 
- 📝 Experience
+ 📝 Experience !
   + [Samsung SW Academy For Youth 5th](https://www.ssafy.com/ksp/servlet/swp.content.controller.SwpContentServlet) : 2021.01 ~
   + Industry-University Cooperation Internship and Projects(except my own)
     + Stress prediction model dev, LOCS Corp : 2020.09 ~ 2020.12
