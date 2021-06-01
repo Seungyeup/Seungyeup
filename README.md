@@ -11,7 +11,7 @@
 
 <br>
 
-📚 Techs ! (at least once)
+📚 Techs !
 
  [![GCP]](https://cloud.google.com/) [![AWS]](https://aws.amazon.com/) [![Docker]](https://www.docker.com/) 
  [![Python]](https://www.python.org/)  [![Pandas]](https://pandas.pydata.org/)  [![Keras]](https://keras.io/) [![scikit-learn]](https://scikit-learn.org/stable/) [![Tensorflow]](https://www.tensorflow.org/) [![Flask]](https://flask.palletsprojects.com/) [![Django]](https://www.djangoproject.com/)  
