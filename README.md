@@ -4,7 +4,7 @@
 
 <br>
 
-🌱 Passionate, fast-growing Junior Data Engineer who's also interested in Data Science, cloud architecture 😍<br>
+🌱 Passionate, fast-growing Junior Data Engineer who's also interested in Data Science, ML, cloud architecture 😍<br>
 🔭 I’m currently working on.. Flask-based asynchronous chatting platfrom! <br>
 🔥 I’m currently learning.. How to extract and load data? Even more effectively? <br>
 👯 Hope to build the world a better place with techs, just like my blog name! <br>
