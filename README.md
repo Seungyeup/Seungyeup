@@ -36,7 +36,7 @@
     + Pusan National University R&D Department, Professor thesis analysis dev : 2020.05 ~ 2020.07
     + Kakao chatbot(name : 부산언니), NLP module dev Cafe24 web-app dev, Chatis Corp : 2019.09 ~ 2019.12
     + 한국학습컨설팅센터 web-page dev, Iamcoop : 2019.04 ~ 2019.9
-  + [Developer Students Club PNU Core Member](https://buildabetterworld.tistory.com/90?category=847699) : 2019.08 ~ 2020.12
+  + [Google Developer Students Club PNU Core Member](https://buildabetterworld.tistory.com/90?category=847699) : 2019.08 ~ 2020.12
   + Pusan National University(BS), Computer Science and Engineering & Applied IT : 2014.03 ~ 2021.2
 
 <br/>
