@@ -30,7 +30,8 @@
 <br/>
 
  📝 Experience !
-  + [Samsung SW Academy For Youth 5th](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) : 2021.01 ~
+  + High-scalable chat-platform : 2021.04 ~ present 
+  + [Samsung SW Academy For Youth 5th](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) : 2021.01 ~ present
   + Industry-University Cooperation Internship and Projects(except my own)
     + Stress-prediction ML model dev, LOCS Corp : 2020.09 ~ 2020.12
     + Pusan National University R&D Department, Professor thesis analysis dev : 2020.05 ~ 2020.07
