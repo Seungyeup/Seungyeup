@@ -25,7 +25,7 @@
 ⚡ Status !
 
 ![Seungyeup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungyeup&show_icons=true&hide_border=true&theme=dark&?count_private=true&line_height=24)
-[![Most used Langs in my Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungyeup&layout=compact&hide_border=true&langs_count=8&theme=dark&hide=html,css,scss,c,hack)](https://github.com/Seungyeup/github-readme-stats)
+[![Most used Langs in my Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungyeup&layout=compact&hide_border=true&langs_count=8&theme=dark&hide=html,css,scss,c,hack&exclude_repo=stocklab,Project-StockPlatform,PNU_SGM)](https://github.com/Seungyeup/github-readme-stats)
 
 <br/>
 
