@@ -42,8 +42,8 @@
 
 <br/>
 
- 👅 Language
-   + TOEIC Speaking Lv 7 : 2021.08.28
+ 👅 Cert & Language
+   + (english) TOEIC Speaking Lv 7 : 2021.08.28
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lsyes12345@gmail.com)](mailto:harimkang4422@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://buildabetterworld.tistory.com/)](https://buildabetterworld.tistory.com/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seungyeup-lee-9b0b77162/)](https://www.linkedin.com/in/seungyeup-lee-9b0b77162/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungyeup%2Fhit-counter&count_bg=%2378F51A&title_bg=%23000000&icon=&icon_color=%2375F541&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![Hits](https://img.shields.io/github/followers/Seungyeup?label=Follow)
