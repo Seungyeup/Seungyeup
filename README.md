@@ -8,6 +8,7 @@
 🔭 I’m currently working on.. Flask-based asynchronous chatting platfrom! <br>
 🔥 I’m currently learning.. How to extract and load data? Even more effectively? (Hadoop, Spark, kafka) <br>
 👯 Hope to build the world a better place with techs, just like my blog name! <br>
+🙏 You have to know the data well, you need to be able to explain why you use it, and you have to create it yourself.<br>
 
 <br>
 
