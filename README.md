@@ -15,7 +15,7 @@
 📚 Techs !
 
  [![GCP]](https://cloud.google.com/) [![AWS]](https://aws.amazon.com/) [![Docker]](https://www.docker.com/) 
- [![Python]](https://www.python.org/)  [![Pandas]](https://pandas.pydata.org/)  [![Keras]](https://keras.io/) [![scikit-learn]](https://scikit-learn.org/stable/) [![Tensorflow]](https://www.tensorflow.org/) [![Flask]](https://flask.palletsprojects.com/) [![Django]](https://www.djangoproject.com/)  
+ [![Python]](https://www.python.org/)  [![Pandas]](https://pandas.pydata.org/)  [![Keras]](https://keras.io/) [![scikit-learn]](https://scikit-learn.org/stable/) [![Tensorflow]](https://www.tensorflow.org/) [![Flask]](https://flask.palletsprojects.com/) [![Django]](https://www.djangoproject.com/) [![FastAPI]](https://fastapi.tiangolo.com/)
  [![Java]](https://openjdk.java.net/) [![Spring]](https://spring.io/) [![Spring-Boot]](https://spring.io/projects/spring-boot) [![JavaScript]](https://www.ecma-international.org/publications/standards/Ecma-262.htm) [![Vue.js]](https://vuejs.org/) [![PHP]](https://www.php.net/) [![Laravel]](https://laravel.com/)  [![C++]](https://isocpp.org/)
 [![PostgreSQL]](https://www.postgresql.org/) [![MongoDB]](https://www.mongodb.com/) [![Redis]](https://redis.io/)
 
@@ -55,6 +55,7 @@
 [aws]: https://img.shields.io/static/v1?style=flat-square&label=&message=AWS&color=232f3e&labelColor=e0e0e0&logoColor=232f3e&logo=amazon-aws
 [c++]: https://img.shields.io/static/v1?style=flat-square&label=&message=C%2B%2B&color=00599c&labelColor=e0e0e0&logoColor=00599c&logo=c%2B%2B
 [django]: https://img.shields.io/static/v1?style=flat-square&label=&message=Django&color=092e20&labelColor=e0e0e0&logoColor=092e20&logo=django
+[FastAPI]: https://img.shields.io/static/v1?style=flat-square&label=&message=FastAPI&color=20B2AA&labelColor=e0e0e0&logoColor=20B2AA&logo=FastAPI
 [docker]: https://img.shields.io/static/v1?style=flat-square&label=&message=Docker&color=2496ed&labelColor=212121&logoColor=2496ed&logo=docker
 [flask]: https://img.shields.io/static/v1?style=flat-square&label=&message=Flask&color=000&labelColor=e0e0e0&logoColor=000&logo=flask
 [gcp]: https://img.shields.io/static/v1?style=flat-square&label=&message=GCP&color=4285f4&labelColor=212121&logoColor=4285f4&logo=google-cloud
