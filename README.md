@@ -12,7 +12,7 @@
 
 <br>
 
-📚 Techs ! and ... [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://buildabetterworld.tistory.com/)](https://buildabetterworld.tistory.com/) !
+📚 Techs ! and ... [Tech Blog](https://buildabetterworld.tistory.com/) !
 
  [![GCP]](https://cloud.google.com/) [![AWS]](https://aws.amazon.com/) [![Docker]](https://www.docker.com/) 
  [![Python]](https://www.python.org/)  [![Pandas]](https://pandas.pydata.org/)  [![Keras]](https://keras.io/) [![scikit-learn]](https://scikit-learn.org/stable/) [![Tensorflow]](https://www.tensorflow.org/) [![Flask]](https://flask.palletsprojects.com/) [![Django]](https://www.djangoproject.com/) [![FastAPI]](https://fastapi.tiangolo.com/)
