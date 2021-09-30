@@ -12,7 +12,7 @@
 
 <br>
 
-📚 Techs ! and ... [Tech Blog](https://buildabetterworld.tistory.com/) ! (구체적으로 어떤것을 알고 있는지 보기좋게 수정하자!)
+📚 Techs ! and ... [Tech Blog](https://buildabetterworld.tistory.com/) ! (숙련도 + 구체적으로 어떤것을 알고 있는지 보기좋게 수정하자!)
 
  + Back-end Engineering
      + [![Flask]](https://flask.palletsprojects.com/) [![Django]](https://www.djangoproject.com/) [![FastAPI]](https://fastapi.tiangolo.com/)
