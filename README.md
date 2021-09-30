@@ -12,14 +12,25 @@
 
 <br>
 
-📚 Techs ! and ... [Tech Blog](https://buildabetterworld.tistory.com/) !
+📚 Techs ! and ... [Tech Blog](https://buildabetterworld.tistory.com/) ! (구체적으로 어떤것을 알고 있는지 보기좋게 수정하자!)
 
- [![GCP]](https://cloud.google.com/) [![AWS]](https://aws.amazon.com/) [![Docker]](https://www.docker.com/) 
- [![Python]](https://www.python.org/)  [![Pandas]](https://pandas.pydata.org/)  [![Keras]](https://keras.io/) [![scikit-learn]](https://scikit-learn.org/stable/) [![Tensorflow]](https://www.tensorflow.org/) [![Flask]](https://flask.palletsprojects.com/) [![Django]](https://www.djangoproject.com/) [![FastAPI]](https://fastapi.tiangolo.com/)
- [![Java]](https://openjdk.java.net/) [![Spring]](https://spring.io/) [![Spring-Boot]](https://spring.io/projects/spring-boot) [![JavaScript]](https://www.ecma-international.org/publications/standards/Ecma-262.htm) [![Vue.js]](https://vuejs.org/) [![PHP]](https://www.php.net/) [![Laravel]](https://laravel.com/)  [![C++]](https://isocpp.org/)
-[![PostgreSQL]](https://www.postgresql.org/) [![MongoDB]](https://www.mongodb.com/) [![Redis]](https://redis.io/)
-
-
+ + Back-end Engineering
+     + [![Flask]](https://flask.palletsprojects.com/) [![Django]](https://www.djangoproject.com/) [![FastAPI]](https://fastapi.tiangolo.com/)
+     + [![Spring-Boot]](https://spring.io/projects/spring-boot)
+     + [![Laravel]](https://laravel.com/)
+ + Data Engineering
+     + [![GCP]](https://cloud.google.com/) - ETL-pipeline(Dataflow, Dataproc, BigQuery)
+     + Hadoop-EcoSystem - HDFS,map-reduce,Sqoop,Flume,spark
+ + Cloud
+     + [![GCP]](https://cloud.google.com/) - VPC connector, Redis-instance, Cloud-Run
+     + [![AWS]](https://aws.amazon.com/) - S3, EC2
+ + DevOps
+     + [![Docker]](https://www.docker.com/) , jenkins - CI/CD
+ + ML Engineering
+     + [![Keras]](https://keras.io/) [![scikit-learn]](https://scikit-learn.org/stable/) [![Tensorflow]](https://www.tensorflow.org/) 
+ + DataBase + Messaging Queue
+     + [![PostgreSQL]](https://www.postgresql.org/) [![MongoDB]](https://www.mongodb.com/)
+     + [![Redis]](https://redis.io/) , kafka
 
 <br>
 
