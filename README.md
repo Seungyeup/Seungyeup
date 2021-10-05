@@ -23,7 +23,7 @@
      + [![Apache Spark]](https://spark.apache.org/) | 1 | Currently studying
 
  + Cloud
-     + [![GCP]](https://cloud.google.com/) | 3 | Scalable architecture(Cloud-Run,VPC connector, redis instance)
+     + [![GCP]](https://cloud.google.com/) | 3 | Scalable architecture(Cloud-Run, VPC connector, redis instance, GKE(roughly))
      + [![AWS]](https://aws.amazon.com/) | 2 | S3(image, sound file), EC2-cluster (for server, jenkins, etc)
  + DevOps
      + [![Docker]](https://www.docker.com/) [![jenkins]](https://www.jenkins.io/) | 2 | Continuous Deployment(auto-deploy, docker compose)
