@@ -15,8 +15,8 @@
 📚 Techs ! and ... [Tech Blog](https://buildabetterworld.tistory.com/) !  |  Low(1) ~ High(5)  |  based on exprience  
 
  + Back-end Engineering
-     + [![Flask]](https://flask.palletsprojects.com/) [![Django]](https://www.djangoproject.com/) [![FastAPI]](https://fastapi.tiangolo.com/) | 4 | RestAPI server with HTTPs, JWToken, Storage(RDB,NoSQL,Cloud-Bucket), and some Asynchronous tasks in Flask(with celery), FastAPI
-     + [![Spring-Boot]](https://spring.io/projects/spring-boot) | 3 | RestAPI server with HTTPs, JWToken, Storage(RDB), and Streaming Tech(WebRTC)
+     + [![Flask]](https://flask.palletsprojects.com/) [![Django]](https://www.djangoproject.com/) [![FastAPI]](https://fastapi.tiangolo.com/) | 4 | RESTful API server with HTTPs, JWToken, Storage(RDB,NoSQL,Cloud-Bucket), and some Asynchronous tasks in Flask(with celery), FastAPI
+     + [![Spring-Boot]](https://spring.io/projects/spring-boot) | 3 | RESTful API server with HTTPs, JWToken, Storage(RDB), and Streaming Tech(WebRTC)
  + Data Engineering
      + [![GCP]](https://cloud.google.com/) | 3 | ETL-pipeline(Dataflow, Dataproc, BigQuery)
      + [![hadoop]](https://hadoop.apache.org/) | 2 | Simple Distributed processing in local(HDFS, map-reduce, Sqoop, Flume) and GCP
