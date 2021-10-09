@@ -66,7 +66,6 @@
 
 <!-- badge linkes -->
 [aws]: https://img.shields.io/static/v1?style=flat-square&label=&message=AWS&color=232f3e&labelColor=e0e0e0&logoColor=232f3e&logo=amazon-aws
-[c++]: https://img.shields.io/static/v1?style=flat-square&label=&message=C%2B%2B&color=00599c&labelColor=e0e0e0&logoColor=00599c&logo=c%2B%2B
 [django]: https://img.shields.io/static/v1?style=flat-square&label=&message=Django&color=092e20&labelColor=e0e0e0&logoColor=092e20&logo=django
 [FastAPI]: https://img.shields.io/static/v1?style=flat-square&label=&message=FastAPI&color=20B2AA&labelColor=e0e0e0&logoColor=20B2AA&logo=FastAPI
 [docker]: https://img.shields.io/static/v1?style=flat-square&label=&message=Docker&color=2496ed&labelColor=e0e0e0&logoColor=2496ed&logo=docker
