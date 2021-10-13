@@ -20,7 +20,7 @@
  + Data Engineering
      + [![GCP]](https://cloud.google.com/) | 3 | ETL-pipeline(Dataflow, Dataproc, BigQuery)
      + [![hadoop]](https://hadoop.apache.org/) | 2 | Simple Distributed processing in local(HDFS, map-reduce, Sqoop, Flume) and GCP
-     + [![Apache Spark]](https://spark.apache.org/) | 1 | Currently studying
+     + [![Apache Spark]](https://spark.apache.org/) | 1 | RDD, Spark Dataframes, Spark SQL
 
  + Cloud
      + [![GCP]](https://cloud.google.com/) | 3 | Scalable architecture(Cloud-Run, VPC connector, redis instance, GKE(roughly))
