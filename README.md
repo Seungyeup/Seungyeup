@@ -46,7 +46,7 @@
 <br/>
 
  📝 Experience
-  + Image & Music Recommender System (by Text) : 2021.09 ~ present 
+  + Image & Music Recommender System (by Text) : 2021.09 ~ 2021.10.16 
   + High-scalable Chat-platform : 2021.04 ~ present 
   + [Samsung SW Academy For Youth 5th](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) : 2021.01 ~ present
   + Industry-University Cooperation Internship and Projects(except my own)
