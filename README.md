@@ -5,7 +5,7 @@
 <br>
 
 🌱 Passionate, Fast-growing Junior Developer who's interested in Backend, Data-Engineering, ML, cloud architecture 😍<br>
-🔭 I’m currently working on.. Image & Music Recommender System (based on user's diary) <br>
+🔭 I’m currently working on.. TESTMAN! apis+load testing tool!(spring,jmeter,k8s,etc) <br>
 🔥 I’m currently learning.. How to extract and load data? Even more effectively? (Hadoop, Spark, kafka) <br>
 👯 Hope to build the world a better place with techs, just like my blog name! <br>
 🙏 You have to know the data well, you need to be able to explain why you use it, and you have to create it yourself.<br>
