@@ -4,7 +4,7 @@
 
 <br>
 
-🌱 Passionate, Fast-growing Junior Developer who's interested in Backend, Data-Engineering, ML, cloud architecture 😍<br>
+🌱 Passionate, Fast-growing Junior Developer who's interested in Data-Engineering, Backend, ML, cloud architecture 😍<br>
 🔭 I’m currently working on.. TESTMAN! apis+load testing tool!(spring,jmeter,k8s,etc) <br>
 🔥 I’m currently learning.. How to extract and load data? Even more effectively? (Hadoop, Spark, kafka) <br>
 👯 Hope to build the world a better place with techs, just like my blog name! <br>
