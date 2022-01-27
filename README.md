@@ -1,18 +1,15 @@
 
+<br>
 
-# Hi there, I'm Seungyeup 👋
+👋 Who am I?
+
+ + 🌱 Passionate, Fast-growing Junior Developer who's interested in Data-Engineering, Backend, ML, cloud architecture 😍
+ + 🔥 I’m currently learning.. How to extract and load data? Even more effectively? (Hadoop, Spark, kafka) 
+ + 🙏 I want to know the data well, need to be able to explain why I use it, and have to create it by myself.
 
 <br>
 
-🌱 Passionate, Fast-growing Junior Developer who's interested in Data-Engineering, Backend, ML, cloud architecture 😍<br>
-🔭 I’m currently working on.. TESTMAN! apis+load testing tool!(spring,jmeter,k8s,etc) <br>
-🔥 I’m currently learning.. How to extract and load data? Even more effectively? (Hadoop, Spark, kafka) <br>
-👯 Hope to build the world a better place with techs, just like my blog name! <br>
-🙏 You have to know the data well, you need to be able to explain why you use it, and you have to create it yourself.<br>
-
-<br>
-
-📚 Techs ! and ... [Tech Blog](https://buildabetterworld.tistory.com/) !  |  Low(1) ~ High(5)  |  based on exprience  
+📚 Techs
 
  + Back-end Engineering
      + [![Flask]](https://flask.palletsprojects.com/) [![Django]](https://www.djangoproject.com/) [![FastAPI]](https://fastapi.tiangolo.com/) | 4 | RESTful API server with HTTPs, JWToken, Storage(RDB,NoSQL,Cloud-Bucket), and some Asynchronous tasks in Flask(with celery), FastAPI
@@ -43,7 +40,7 @@
 
 <!-- jupyter%20notebook -->
 
-<br/>
+<!-- <br/>
 
  📝 Experience
   + Image & Music Recommender System (by Text) : 2021.09 ~ 2021.10.16 
@@ -58,7 +55,7 @@
   + Pusan National University(BS), Computer Science and Engineering & Applied IT (Major GPA: 3.94/4.5) : 2014.03 ~ 2021.2
 
 <br/>
-
+ -->
  👅 Cert & Language
    + (english) TOEIC Speaking Lv 7 : 2021.08.28
 
