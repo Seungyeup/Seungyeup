@@ -1,5 +1,6 @@
 
 <br>
+<!-- <br>
 
 👋 Who am I?
 
@@ -9,28 +10,32 @@
 
 <br>
 
+<br/>
+ -->
+ 
 📚 Techs
 
- + Back-end Engineering
-     + [![Flask]](https://flask.palletsprojects.com/) [![Django]](https://www.djangoproject.com/) [![FastAPI]](https://fastapi.tiangolo.com/) | 4 | RESTful API server with HTTPs, JWToken, Storage(RDB,NoSQL,Cloud-Bucket), and some Asynchronous tasks in Flask(with celery), FastAPI
-     + [![Spring-Boot]](https://spring.io/projects/spring-boot) | 3 | RESTful API server with HTTPs, JWToken, Storage(RDB), and Streaming Tech(WebRTC)
- + Data Engineering
-     + [![GCP]](https://cloud.google.com/) | 3 | ETL-pipeline(Dataflow, Dataproc, BigQuery)
-     + [![hadoop]](https://hadoop.apache.org/) | 2 | Simple Distributed processing in local(HDFS, map-reduce, Sqoop, Flume) and GCP
-     + [![Apache Spark]](https://spark.apache.org/) | 1 | RDD, Spark Dataframes, Spark SQL
-
- + Cloud
-     + [![GCP]](https://cloud.google.com/) | 3 | Scalable architecture(Cloud-Run, VPC connector, redis instance, GKE(roughly))
-     + [![AWS]](https://aws.amazon.com/) | 2 | S3(image, sound file), EC2-cluster (for server, jenkins, etc)
- + DevOps
-     + [![Docker]](https://www.docker.com/) [![jenkins]](https://www.jenkins.io/) | 2 | Continuous Deployment(auto-deploy, docker compose)
- + ML Engineering
-     + [![Keras]](https://keras.io/) [![scikit-learn]](https://scikit-learn.org/stable/) [![Tensorflow]](https://www.tensorflow.org/) | 3 | NLP modeling (Tokenizer, LSTM, SVM, koBERT(roughly))
- + DataBase + Messaging Queue
-     + [![MySQL]](https://www.mysql.com/) [![PostgreSQL]](https://www.postgresql.org/) [![Oracle]](https://www.oracle.com/kr/index.html) | 3 | Concept(RDB,SQL,Index), exprience in few web-service, convert and store in HDFS, Hive 
-     + [![MongoDB]](https://www.mongodb.com/) | 2 | Concept, exprience in Storing stock data
-     + [![Redis]](https://redis.io/) [![Apache Kafka]](https://kafka.apache.org/) | 1 ~ 2 | Redis: pub/sub in scalable chat-server, Kafka: Currently studying
-     + [![ELK]](https://www.elastic.co/kr/elastic-stack/) with Logging System
+[![Flask]](https://flask.palletsprojects.com/) 
+[![Django]](https://www.djangoproject.com/) 
+[![FastAPI]](https://fastapi.tiangolo.com/) 
+[![Spring-Boot]](https://spring.io/projects/spring-boot)
+[![GCP]](https://cloud.google.com/) 
+[![hadoop]](https://hadoop.apache.org/) 
+[![Apache Spark]](https://spark.apache.org/) 
+[![GCP]](https://cloud.google.com/)
+[![AWS]](https://aws.amazon.com/) 
+[![Docker]](https://www.docker.com/) 
+[![jenkins]](https://www.jenkins.io/)
+[![Keras]](https://keras.io/) 
+[![scikit-learn]](https://scikit-learn.org/stable/) 
+[![Tensorflow]](https://www.tensorflow.org/) 
+[![MySQL]](https://www.mysql.com/) 
+[![PostgreSQL]](https://www.postgresql.org/) 
+[![Oracle]](https://www.oracle.com/kr/index.html) 
+[![MongoDB]](https://www.mongodb.com/)
+[![Redis]](https://redis.io/) 
+[![Apache Kafka]](https://kafka.apache.org/) 
+[![ELK]](https://www.elastic.co/kr/elastic-stack/) 
 
 <!-- <br>
 
@@ -58,11 +63,13 @@
 <br/>
  -->
   
-<br>
+<!-- <br/>
 
  👅 Cert & Language
    + (english) TOEIC Speaking Lv 7 : 2021.08.28
-
+<br/>
+ -->
+ 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lsyes12345@gmail.com)](mailto:harimkang4422@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://seungyeup.github.io/)](https://seungyeup.github.io/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seungyeup-lee-9b0b77162/)](https://www.linkedin.com/in/seungyeup-lee-9b0b77162/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungyeup%2Fhit-counter&count_bg=%2378F51A&title_bg=%23000000&icon=&icon_color=%2375F541&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![Hits](https://img.shields.io/github/followers/Seungyeup?label=Follow)
 
