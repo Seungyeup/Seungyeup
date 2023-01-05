@@ -9,11 +9,10 @@
  + 🙏 I want to know the data well, need to be able to explain why I use it, and have to create it by myself.
 
 <br>
-
+📚 Techs
 <br/>
  -->
- 
-📚 Techs
+
 
 [![Flask]](https://flask.palletsprojects.com/) 
 [![Django]](https://www.djangoproject.com/) 
