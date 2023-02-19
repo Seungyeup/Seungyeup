@@ -16,15 +16,9 @@
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://seungyeup.github.io/)](https://seungyeup.github.io/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seungyeup-lee-9b0b77162/)](https://www.linkedin.com/in/seungyeup-lee-9b0b77162/)
  
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungyeup&theme=github_dark&show_icons=true)
-
-
-[![Spring-Boot]](https://spring.io/projects/spring-boot)[![Apache Kafka]](https://kafka.apache.org/) 
-[![ELK]](https://www.elastic.co/kr/elastic-stack/) 
-
-
-[![AWS]](https://aws.amazon.com/) [![Oracle]](https://www.oracle.com/kr/index.html) 
-
-[![Flask]](https://flask.palletsprojects.com/) 
+ 
+ [![Spring-Boot]](https://spring.io/projects/spring-boot)[![Apache Kafka]](https://kafka.apache.org/) [![ELK]](https://www.elastic.co/kr/elastic-stack/) 
+[![AWS]](https://aws.amazon.com/) [![Oracle]](https://www.oracle.com/kr/index.html) [![Flask]](https://flask.palletsprojects.com/) 
 [![Django]](https://www.djangoproject.com/) 
 [![FastAPI]](https://fastapi.tiangolo.com/) 
 [![GCP]](https://cloud.google.com/) 
