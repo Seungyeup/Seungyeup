@@ -18,7 +18,7 @@
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungyeup&theme=github_dark&show_icons=true)
  
  [![Spring-Boot]](https://spring.io/projects/spring-boot)[![Apache Kafka]](https://kafka.apache.org/) [![ELK]](https://www.elastic.co/kr/elastic-stack/) 
-[![AWS]](https://aws.amazon.com/) [![Oracle]](https://www.oracle.com/kr/index.html) [![Flask]](https://flask.palletsprojects.com/) 
+[![Oracle]](https://www.oracle.com/kr/index.html) [![Flask]](https://flask.palletsprojects.com/) 
 [![Django]](https://www.djangoproject.com/) 
 [![FastAPI]](https://fastapi.tiangolo.com/) 
 [![GCP]](https://cloud.google.com/) 
