@@ -15,26 +15,32 @@
  
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://seungyeup.github.io/)](https://seungyeup.github.io/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seungyeup-lee-9b0b77162/)](https://www.linkedin.com/in/seungyeup-lee-9b0b77162/)
  
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungyeup&theme=github_dark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungyeup&theme=github_dark&show_icons=true)
  
- [![Spring-Boot]](https://spring.io/projects/spring-boot)[![Apache Kafka]](https://kafka.apache.org/) [![ELK]](https://www.elastic.co/kr/elastic-stack/) 
-[![Oracle]](https://www.oracle.com/kr/index.html) [![Flask]](https://flask.palletsprojects.com/) 
-[![Django]](https://www.djangoproject.com/) 
-[![FastAPI]](https://fastapi.tiangolo.com/) 
-[![GCP]](https://cloud.google.com/) 
-[![hadoop]](https://hadoop.apache.org/) 
-[![Apache Spark]](https://spark.apache.org/) 
-[![GCP]](https://cloud.google.com/)
+[![Spring-Boot]](https://spring.io/projects/spring-boot)
+[![Apache Kafka]](https://kafka.apache.org/) 
+[![ELK]](https://www.elastic.co/kr/elastic-stack/)
 [![AWS]](https://aws.amazon.com/) 
+
+[![FastAPI]](https://fastapi.tiangolo.com/)
+[![Kubernetes]](https://kubernetes.io/)
 [![Docker]](https://www.docker.com/) 
-[![jenkins]](https://www.jenkins.io/)
-[![Keras]](https://keras.io/) 
-[![scikit-learn]](https://scikit-learn.org/stable/) 
-[![Tensorflow]](https://www.tensorflow.org/) 
+[![Oracle]](https://www.oracle.com/kr/index.html) 
+
+[![Apache Spark]](https://spark.apache.org/)
+[![hadoop]](https://hadoop.apache.org/) 
+[![GCP]](https://cloud.google.com/)
+
 [![MySQL]](https://www.mysql.com/) 
 [![PostgreSQL]](https://www.postgresql.org/) 
 [![MongoDB]](https://www.mongodb.com/)
 [![Redis]](https://redis.io/) 
+[![Flask]](https://flask.palletsprojects.com/) 
+[![Django]](https://www.djangoproject.com/) 
+[![jenkins]](https://www.jenkins.io/)
+[![Keras]](https://keras.io/) 
+[![scikit-learn]](https://scikit-learn.org/stable/) 
+[![Tensorflow]](https://www.tensorflow.org/) 
 
 
 <!-- <br>
@@ -79,6 +85,7 @@
 [django]: https://img.shields.io/static/v1?style=flat-square&label=&message=Django&color=092e20&labelColor=e0e0e0&logoColor=092e20&logo=django
 [FastAPI]: https://img.shields.io/static/v1?style=flat-square&label=&message=FastAPI&color=20B2AA&labelColor=e0e0e0&logoColor=20B2AA&logo=FastAPI
 [docker]: https://img.shields.io/static/v1?style=flat-square&label=&message=Docker&color=2496ed&labelColor=e0e0e0&logoColor=2496ed&logo=docker
+[Kubernetes]: https://img.shields.io/static/v1?style=flat-square&label=&message=Kubernetes&color=2496ed&labelColor=e0e0e0&logoColor=2496ed&logo=Kubernetes
 [flask]: https://img.shields.io/static/v1?style=flat-square&label=&message=Flask&color=000&labelColor=e0e0e0&logoColor=000&logo=flask
 [gcp]: https://img.shields.io/static/v1?style=flat-square&label=&message=GCP&color=4285f4&labelColor=e0e0e0&logoColor=4285f4&logo=google-cloud
 [java]: https://img.shields.io/static/v1?style=flat-square&label=&message=Java&color=007396&labelColor=e0e0e0&logoColor=007396&logo=java
