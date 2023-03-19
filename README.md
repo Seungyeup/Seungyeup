@@ -1,26 +1,36 @@
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seungyeup's%20Github&fontSize=55&animation=fadeIn&fontAlignY=28&desc="Let%20us%20not%20become%20weary%20in%20doing%20good,%20for%20at%20the%20proper%20time%20we%20will%20reap%20a%20harvest%20if%20we%20do%20not%20give%20up"%20-%20Galatians%206:9%20-%20&descAlignY=53&descSize=11)
 
-<!-- Body -->
+<div align=right> 
+ 
+[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://seungyeup.github.io/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seungyeup-lee-9b0b77162/)
+ 
+</div>
 
-⭐️ GitHub stats
+
+<!-- Body -->
+⭐️ GitHub stats   
+ ---
+ 
+<div align=center>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungyeup&theme=github_dark&show_icons=true&hide_border=true)
  
+</div>
  
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://seungyeup.github.io/)](https://seungyeup.github.io/) 
- 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seungyeup-lee-9b0b77162/)](https://www.linkedin.com/in/seungyeup-lee-9b0b77162/)
-
----
  
 <br/> 🍀 Skills
+ ---
+ 
+<div align=center>
  
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![ApacheKafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+<br/>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
@@ -37,6 +47,8 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
+<br/>
+
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
@@ -49,28 +61,26 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+</div>
+ 
 
-<br/> 
-
+<br/> 📝 Certifications 
 ---
++ [AWS Certified Solutions Architect - Associate(SAA-C03)](https://www.credly.com/badges/c7e876b6-9410-4a0e-96d0-38a172a07f9c/public_url) : 2023.03
 
-📝 Certification 
+
 
 <br/> <!-- bottom -->
 
+<div align=right> 
+ 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lsyes12345@gmail.com)](mailto:harimkang4422@gmail.com) 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://seungyeup.github.io/)](https://seungyeup.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seungyeup-lee-9b0b77162/)](https://www.linkedin.com/in/seungyeup-lee-9b0b77162/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungyeup%2Fhit-counter&count_bg=%2378F51A&title_bg=%23000000&icon=&icon_color=%2375F541&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 ![Hits](https://img.shields.io/github/followers/Seungyeup?label=Follow)
 
-
-
-
-
-
-
-
+<div/>
 
 
 
@@ -94,4 +104,7 @@
 
 ⚡ Status !
 ![Seungyeup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungyeup&show_icons=true&hide_border=true&theme=dark&?count_private=true&line_height=24)
-[![Most used Langs in my Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungyeup&layout=compact&hide_border=true&langs_count=8&theme=dark&hide=html,css,scss,c,hack&exclude_repo=stocklab,Project-StockPlatform,PNU_SGM)](https://github.com/Seungyeup/github-readme-stats)  -->
+[![Most used Langs in my Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungyeup&layout=compact&hide_border=true&langs_count=8&theme=dark&hide=html,css,scss,c,hack&exclude_repo=stocklab,Project-StockPlatform,PNU_SGM)](https://github.com/Seungyeup/github-readme-stats)  
+
+https://github.com/tandpfun/skill-icons?ref=reactjsexample.com
+-->
