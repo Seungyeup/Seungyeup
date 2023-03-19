@@ -1,16 +1,15 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seungyeup's%20Github&fontSize=55&animation=fadeIn&fontAlignY=28&desc="Let%20us%20not%20become%20weary%20in%20doing%20good,%20for%20at%20the%20proper%20time%20we%20will%20reap%20a%20harvest%20if%20we%20do%20not%20give%20up"%20-%20Galatians%206:9%20-%20&descAlignY=53&descSize=11)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seungyeup's%20Github&fontSize=55&animation=fadeIn&fontAlignY=28&desc="Let%20us%20not%20become%20weary%20in%20doing%20good,%20for%20at%20the%20proper%20time%20we%20will%20reap%20a%20harvest%20if%20we%20do%20not%20give%20up"%20-%20Galatians%206:9%20-%20&descAlignY=53&descSize=11)
 
 <div align=right> 
  
-[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://seungyeup.github.io/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seungyeup-lee-9b0b77162/)
+[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://seungyeup.github.io/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seungyeup-lee-9b0b77162/)  
  
 </div>
 
-
 <!-- Body -->
 ⭐️ GitHub stats   
- ---
+---
  
 <div align=center>
 
@@ -18,9 +17,8 @@
  
 </div>
  
- 
-<br/> 🍀 Skills
- ---
+🍀 Skills
+---
  
 <div align=center>
  
@@ -29,8 +27,6 @@
 ![ApacheKafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-<br/>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
@@ -41,13 +37,10 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-
 ![HADOOP](https://img.shields.io/badge/Apache%20Hadoop-%23FF9900.svg?style=for-the-badge&logo=apache-hadoop&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23F46800.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
-<br/>
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -62,17 +55,15 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
- 
 
-<br/> 📝 Certifications 
+
+📝 Certifications 
 ---
 + [AWS Certified Solutions Architect - Associate(SAA-C03)](https://www.credly.com/badges/c7e876b6-9410-4a0e-96d0-38a172a07f9c/public_url) : 2023.03
 
+<!-- bottom -->
 
-
-<br/> <!-- bottom -->
-
-<div align=right> 
+<br/> <div align=right> 
  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lsyes12345@gmail.com)](mailto:harimkang4422@gmail.com) 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://seungyeup.github.io/)](https://seungyeup.github.io/) 
