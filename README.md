@@ -56,6 +56,7 @@
 
 </div>
 
+<br/>
 
 📝 Certifications 
 ---
