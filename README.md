@@ -23,9 +23,12 @@
 <div align=center>
  
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring%20Boot-%23009639.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![ApacheKafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![fluentd](https://img.shields.io/badge/fluentd-%232671E5.svg?style=for-the-badge&logo=fluentd&logoColor=white)
+![logstash](https://img.shields.io/badge/logstash-EAB300?style=for-the-badge&logo=logstash&logoColor=white)
+![kibana](https://img.shields.io/badge/kibana-7D00FF?style=for-the-badge&logo=kibana&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -36,7 +39,7 @@
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
+ 
 ![HADOOP](https://img.shields.io/badge/Apache%20Hadoop-%23FF9900.svg?style=for-the-badge&logo=apache-hadoop&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23F46800.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
