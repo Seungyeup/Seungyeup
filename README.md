@@ -8,14 +8,14 @@
 </div>
 
 <!-- Body -->
-⭐️ GitHub stats   
+<!-- ⭐️ GitHub stats   
 ---
  
 <div align=center>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungyeup&hide_border=true&theme=github_dark&show_icons=true)
  
-</div>
+</div> -->
  
 🍀 Skills
 ---
@@ -59,9 +59,19 @@
 
 </div>
 
+🚀  Experience
+---
+ + © Shinhan Bank Data Platform Engineer (MydataCell) : 2022.01 ~ 
+   + Developed Shinhan Mydata(Moneyverse) Logging-System Project
+   + Participated in Shinhan Mydata(Moneyverse) financial-product Recommendation System
+   + Participated in Shinhan Mydata(Moneyverse) System Advancement
+ + [Samsung SW Academy For Youth(SSAFY) 5th](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) : 2021.01 ~ 2021.11.29
+ + [Google Developer Students Club PNU Core Member](https://buildabetterworld.tistory.com/90?category=847699) : 2019.08 ~ 2020.12
+ + Pusan National University(BS), Computer Science and Engineering & Applied IT (Major GPA: 3.94/4.5) : 2014.03 ~ 2021.2
+
 <br/>
 
-📝 Certifications 
+📝  Certifications 
 ---
 + [AWS Certified Solutions Architect - Associate(SAA-C03)](https://www.credly.com/badges/c7e876b6-9410-4a0e-96d0-38a172a07f9c/public_url) : 2023.03
 
