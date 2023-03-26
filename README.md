@@ -3,7 +3,7 @@
 
 <div align=right> 
  
-[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://seungyeup.github.io/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seungyeup-lee-9b0b77162/)  
+[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-%23121011.svg?style=Social&logo=github&logoColor=white)](https://seungyeup.github.io/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=Social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seungyeup-lee-9b0b77162/)  
  
 </div>
 
@@ -22,40 +22,40 @@
  
 <div align=center>
  
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring%20Boot-%23009639.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![ApacheKafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-![fluentd](https://img.shields.io/badge/fluentd-%232671E5.svg?style=for-the-badge&logo=fluentd&logoColor=white)
-![logstash](https://img.shields.io/badge/logstash-EAB300?style=for-the-badge&logo=logstash&logoColor=white)
-![kibana](https://img.shields.io/badge/kibana-7D00FF?style=for-the-badge&logo=kibana&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=Social&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring%20Boot-%23009639.svg?style=Social&logo=springboot&logoColor=white)
+![ApacheKafka](https://img.shields.io/badge/Apache%20Kafka-000?style=Social&logo=apachekafka)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=Social&logo=elasticsearch)
+![fluentd](https://img.shields.io/badge/fluentd-%232671E5.svg?style=Social&logo=fluentd&logoColor=white)
+![logstash](https://img.shields.io/badge/logstash-EAB300?style=Social&logo=logstash&logoColor=white)
+![kibana](https://img.shields.io/badge/kibana-7D00FF?style=Social&logo=kibana&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=Social&logo=amazon-aws&logoColor=white)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=Social&logo=fastapi)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=Social&logo=ansible&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=Social&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=Social&logo=docker&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=Social&logo=oracle&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=Social&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=Social&logo=Prometheus&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=Social&logo=githubactions&logoColor=white)
  
-![HADOOP](https://img.shields.io/badge/Apache%20Hadoop-%23FF9900.svg?style=for-the-badge&logo=apache-hadoop&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23F46800.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![HADOOP](https://img.shields.io/badge/Apache%20Hadoop-%23FF9900.svg?style=Social&logo=apache-hadoop&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23F46800.svg?style=Social&logo=apache-spark&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=Social&logo=google-cloud&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=Social&logo=go&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=Social&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=Social&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=Social&logo=redis&logoColor=white)
+![Teradata](https://img.shields.io/badge/Teradata-F37440?style=Social&logo=teradata&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=Social&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=Social&logo=nginx&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=Social&logo=Apache%20Airflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=Social&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=Social&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=Social&logo=Keras&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=Social&logo=mongodb&logoColor=white)
 
 </div>
 
@@ -113,3 +113,4 @@
 
 https://github.com/tandpfun/skill-icons?ref=reactjsexample.com
 -->
+
