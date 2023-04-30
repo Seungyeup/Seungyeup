@@ -15,20 +15,18 @@
  + [Google Developer Students Club PNU Core Member](https://buildabetterworld.tistory.com/90?category=847699) : 2019.08 ~ 2020.12
  + Pusan National University(BS), Computer Science and Engineering & Applied IT (Major GPA: 3.94/4.5) : 2014.03 ~ 2021.2
 
-<br/>
-
 
 🍀 Skills
 ---
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,java,scala,python,aws,grafana,go,fastapi,kafka,prometheus,docker,kubernetes,es">
-    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg'>
-  </a>
+    <img src="https://skillicons.dev/icons?i=spring,java">
+    <img src ='https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt601c406b0b5af740/620577381692951393fdf8d6/elastic-logo-cluster.svg' width=44px>
+    <img src ='https://github.com/Seungyeup/Seungyeup.github.io/blob/main/assets/images/logo-kafka.png?raw=true' width=50px>
+    <img src="https://skillicons.dev/icons?i=scala,python,aws,grafana,prometheus,fastapi,go,docker,kubernetes">
+  </a> 
 </p>
-
- </a> <a href= https://github.com/ferrixx?tab=repositories&q=&type=&language=spotify&sort= >
 
 <!-- https://home.aveek.io/GitHub-Profile-Badges/ -->
 
