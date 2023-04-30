@@ -1,13 +1,57 @@
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Seungyeup's%20Github&fontSize=55&animation=fadeIn&fontAlignY=28&desc="Let%20us%20not%20become%20weary%20in%20doing%20good,%20for%20at%20the%20proper%20time%20we%20will%20reap%20a%20harvest%20if%20we%20do%20not%20give%20up"%20-%20Galatians%206:9%20-%20&descAlignY=53&descSize=11)
 
-<div align=right> 
- 
-[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-%23121011.svg?style=Social&logo=github&logoColor=white)](https://seungyeup.github.io/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=Social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seungyeup-lee-9b0b77162/)  
- 
-</div>
 
 <!-- Body -->
+
+
+🚀  Experience
+---
+ + © Shinhan Bank Data Platform Engineer (MydataCell) : 2022.01 ~ 
+   + Developed Shinhan Mydata(Moneyverse) Logging-System Project
+   + Participated in Shinhan Mydata(Moneyverse) financial-product Recommendation System
+   + Participated in Shinhan Mydata(Moneyverse) System Advancement
+ + [Samsung SW Academy For Youth(SSAFY) 5th](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) : 2021.01 ~ 2021.11.29
+ + [Google Developer Students Club PNU Core Member](https://buildabetterworld.tistory.com/90?category=847699) : 2019.08 ~ 2020.12
+ + Pusan National University(BS), Computer Science and Engineering & Applied IT (Major GPA: 3.94/4.5) : 2014.03 ~ 2021.2
+
+<br/>
+
+
+🍀 Skills
+---
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,java,scala,python,aws,grafana,go,fastapi,kafka,prometheus,docker,kubernetes,es">
+    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg'>
+  </a>
+</p>
+
+ </a> <a href= https://github.com/ferrixx?tab=repositories&q=&type=&language=spotify&sort= >
+
+<!-- https://home.aveek.io/GitHub-Profile-Badges/ -->
+
+📝  Certifications 
+---
++ [AWS Certified Solutions Architect - Associate(SAA-C03)](https://www.credly.com/badges/c7e876b6-9410-4a0e-96d0-38a172a07f9c/public_url) : 2023.03
+
+
+<!-- bottom -->
+
+<br/> <div align=right> 
+ 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lsyes12345@gmail.com)](mailto:harimkang4422@gmail.com) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://seungyeup.github.io/)](https://seungyeup.github.io/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seungyeup-lee-9b0b77162/)](https://www.linkedin.com/in/seungyeup-lee-9b0b77162/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungyeup%2Fhit-counter&count_bg=%2378F51A&title_bg=%23000000&icon=&icon_color=%2375F541&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+![Hits](https://img.shields.io/github/followers/Seungyeup?label=Follow)
+
+<div/>
+
+
+<!-- past -->
+
 <!-- ⭐️ GitHub stats   
 ---
  
@@ -16,12 +60,10 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungyeup&hide_border=true&theme=github_dark&show_icons=true)
  
 </div> -->
- 
-🍀 Skills
----
- 
+
+<!-- 
 <div align=center>
- 
+
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=Social&logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-%23009639.svg?style=Social&logo=springboot&logoColor=white)
 ![ApacheKafka](https://img.shields.io/badge/Apache%20Kafka-000?style=Social&logo=apachekafka)
@@ -58,38 +100,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=Social&logo=mongodb&logoColor=white)
 
 </div>
+-->
 
-🚀  Experience
----
- + © Shinhan Bank Data Platform Engineer (MydataCell) : 2022.01 ~ 
-   + Developed Shinhan Mydata(Moneyverse) Logging-System Project
-   + Participated in Shinhan Mydata(Moneyverse) financial-product Recommendation System
-   + Participated in Shinhan Mydata(Moneyverse) System Advancement
- + [Samsung SW Academy For Youth(SSAFY) 5th](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) : 2021.01 ~ 2021.11.29
- + [Google Developer Students Club PNU Core Member](https://buildabetterworld.tistory.com/90?category=847699) : 2019.08 ~ 2020.12
- + Pusan National University(BS), Computer Science and Engineering & Applied IT (Major GPA: 3.94/4.5) : 2014.03 ~ 2021.2
-
-<br/>
-
-📝  Certifications 
----
-+ [AWS Certified Solutions Architect - Associate(SAA-C03)](https://www.credly.com/badges/c7e876b6-9410-4a0e-96d0-38a172a07f9c/public_url) : 2023.03
-
-<!-- bottom -->
-
-<br/> <div align=right> 
- 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lsyes12345@gmail.com)](mailto:harimkang4422@gmail.com) 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://seungyeup.github.io/)](https://seungyeup.github.io/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seungyeup-lee-9b0b77162/)](https://www.linkedin.com/in/seungyeup-lee-9b0b77162/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungyeup%2Fhit-counter&count_bg=%2378F51A&title_bg=%23000000&icon=&icon_color=%2375F541&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-![Hits](https://img.shields.io/github/followers/Seungyeup?label=Follow)
-
-<div/>
-
-
-
-<!-- past -->
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> -->
 
 <!--  👅 Cert & Language
