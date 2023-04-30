@@ -22,8 +22,8 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,java">
-    <img src ='https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt601c406b0b5af740/620577381692951393fdf8d6/elastic-logo-cluster.svg' width=44px>
-    <img src ='https://github.com/Seungyeup/Seungyeup.github.io/blob/main/assets/images/logo-kafka.png?raw=true' width=50px>
+    <img src='https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt601c406b0b5af740/620577381692951393fdf8d6/elastic-logo-cluster.svg' width=44px>
+    <img src='https://github.com/Seungyeup/Seungyeup.github.io/blob/main/assets/images/logo-kafka.png' width=50px>
     <img src="https://skillicons.dev/icons?i=scala,python,aws,grafana,prometheus,fastapi,go,docker,kubernetes">
   </a> 
 </p>
