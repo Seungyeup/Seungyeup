@@ -33,7 +33,7 @@
 📝  Certifications 
 ---
 + [AWS Certified Solutions Architect - Associate(SAA-C03)](https://www.credly.com/badges/c7e876b6-9410-4a0e-96d0-38a172a07f9c/public_url) : 2023.03
-+ Advanced Data Analytics Semi-Professional (ADsP) : 2023.06
++ Advanced Data Analytics Semi - Professional (ADsP) : 2023.06
 + SQL Developer (SQLD) : 2023.07
 
 <!-- bottom -->
