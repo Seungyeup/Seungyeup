@@ -4,31 +4,30 @@
 
 <!-- Body -->
 
-
-🚀  Experience
----
- + © Shinhan Bank Data Platform Engineer (MydataCell) : 2022.01 ~ 
-   + Developed Shinhan Mydata(Moneyverse) Logging-System Project
-   + Participated in Shinhan Mydata(Moneyverse) financial-product Recommendation System
-   + Participated in Shinhan Mydata(Moneyverse) System Advancement
- + [Samsung SW Academy For Youth(SSAFY) 5th](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) : 2021.01 ~ 2021.11.29
- + [Google Developer Students Club PNU Core Member](https://buildabetterworld.tistory.com/90?category=847699) : 2019.08 ~ 2020.12
- + Pusan National University(BS), Computer Science and Engineering & Applied IT (Major GPA: 3.94/4.5) : 2014.03 ~ 2021.2
-
-
 🍀 Skills
 ---
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,java">
-    <img src='https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt601c406b0b5af740/620577381692951393fdf8d6/elastic-logo-cluster.svg' width=44px>
-    <img src='https://github.com/Seungyeup/Seungyeup.github.io/blob/main/assets/images/logo-kafka.png' width=50px>
-    <img src="https://skillicons.dev/icons?i=scala,python,aws,grafana,prometheus,fastapi,go,docker,kubernetes">
-  </a> 
+  <div class="grid-image">
+  <img src="https://skillicons.dev/icons?i=spring,java">
+  <img src='https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt601c406b0b5af740/620577381692951393fdf8d6/elastic-logo-cluster.svg' width=44px>
+  <img src='https://svn.apache.org/repos/asf/kafka/site/logos/originals/png/ICON%20-%20White%20on%20Transparent.png' width=50px>
+  <img src="https://skillicons.dev/icons?i=scala,python,aws,grafana,prometheus,fastapi,go,docker,kubernetes">
+</div>
 </p>
 
 <!-- https://home.aveek.io/GitHub-Profile-Badges/ -->
+
+🚀  Experience
+---
+ + © Shinhan Bank Data Platform Engineer (MydataCell) : 2022.01 - current
+   + Developed Shinhan Mydata(Moneyverse) Logging-System Project
+   + Participated in Shinhan Mydata(Moneyverse) financial-product Recommendation System
+   + Participated in Shinhan Mydata(Moneyverse) System Advancement
+ + [Samsung SW Academy For Youth(SSAFY) 5th](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) : 2021.01 - 2021.11.29
+ + [Google Developer Students Club PNU Core Member](https://buildabetterworld.tistory.com/90?category=847699) : 2019.08 - 2020.12
+ + Pusan National University(BS), Computer Science and Engineering & Applied IT (Major GPA: 3.94/4.5) : 2014.03 - 2021.2
+
 
 📝  Certifications 
 ---
