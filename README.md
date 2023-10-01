@@ -1,5 +1,5 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=42564F&height=150&section=header&fontSize=55&animation=fadeIn&fontAlignY=10&desc="Let%20us%20not%20become%20weary%20in%20doing%20good,%20for%20at%20the%20proper%20time%20we%20will%20reap%20a%20harvest%20if%20we%20do%20not%20give%20up"%20-%20Galatians%206:9%20-%20&descAlignY=30&descSize=12&fontColor=C0EB6A)
+![header](https://capsule-render.vercel.app/api?type=waving&color=42564F&height=150&section=header&fontSize=55&animation=fadeIn&fontAlignY=10&desc="Let%20us%20not%20become%20weary%20in%20doing%20good,%20for%20at%20the%20proper%20time%20we%20will%20reap%20a%20harvest%20if%20we%20do%20not%20give%20up"%20-%20Galatians%206:9%20-%20&descAlignY=25&descSize=12&fontColor=C0EB6A)
 
 
 <!-- Body -->
