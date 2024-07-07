@@ -35,9 +35,9 @@
 📝  Certifications 
 ---
 + [AWS Certified Solutions Architect - Associate(SAA-C03)](https://www.credly.com/badges/c7e876b6-9410-4a0e-96d0-38a172a07f9c/public_url) : 2023.03
-+ [Advanced Data Analytics Semi - Professional (ADsP-037005382)](https://www.dataq.or.kr/www/sub/a_06.do) : 2023.06
++ [Data AnalysisAssociate Professional (ADsP-037005382)](https://www.dataq.or.kr/www/sub/a_06.do) : 2023.06
 + [SQL Developer (SQLD-049005976)](https://www.dataq.or.kr/www/sub/a_03.do) : 2023.07
-
++ [Big Data Analysis Engineer ()](https://www.dataq.or.kr/www/sub/a_07.do) : 2024.07
 <!-- bottom -->
 
 <br/> <div align=right> 
