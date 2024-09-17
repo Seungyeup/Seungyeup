@@ -6,18 +6,14 @@
 
 🍀 Skills
 ---
-
-<div class="grid-image" align="center">
-  <img src="https://skillicons.dev/icons?i=spring,java">
-  <img src='https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt601c406b0b5af740/620577381692951393fdf8d6/elastic-logo-cluster.svg' width=44px>
-  <img src='https://seungyeup.github.io/assets/img/posts/logo-kafka.png' width=50px>
-  <img src='https://seungyeup.github.io/assets/img/posts/airflow.png' width=37px>
-  <img src='https://seungyeup.github.io/assets/img/posts/s3.png' width=44px>
-  <img src='https://seungyeup.github.io/assets/img/posts/hadoop.png' width=60px>
-  <img src='https://seungyeup.github.io/assets/img/posts/spark.png' width=55px>
-  <img src='https://seungyeup.github.io/assets/img/posts/redshift.png' width=55px>
-  <img src="https://skillicons.dev/icons?i=scala,python,aws,grafana,prometheus,fastapi,go,docker,kubernetes">
-</div>
+<p align="center">
+  <a href="#">
+    <img src="https://simpleskill.icons.workers.dev/svg?i=springboot,elasticsearch,oracle,apachekafka&theme=dark" /> </br>  <!-- backend  -->
+    <img src="https://simpleskill.icons.workers.dev/svg?i=apachehadoop,apachespark,apacheairflow,trino,apacheflink,apachehbase&theme=dark" /> </br>  <!-- data engineering -->
+    <img src="https://simpleskill.icons.workers.dev/svg?i=python,pandas,pytorch&theme=dark" /> </br>  <!-- ml -->
+    <img src="https://simpleskill.icons.workers.dev/svg?i=githubactions,docker,kubernetes,grafana,prometheus,amazonwebservices&theme=dark" />   <!-- etc -->
+  </a>
+</p>
 
 <!-- https://home.aveek.io/GitHub-Profile-Badges/ -->
 
