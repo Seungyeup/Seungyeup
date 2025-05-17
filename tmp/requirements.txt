@@ -1,0 +1,2 @@
+apache-airflow-providers-apache-spark==4.1.0
+apache-airflow-providers-postgres==5.10.0
