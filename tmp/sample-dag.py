@@ -19,7 +19,7 @@ with DAG(
         application='/opt/bitnami/spark/jobs/consume_kafka_to_postgres_batch.py',
         conn_id='spark-default',
         conf={
-            'spark.master': 'spark://spark-master:7077',
+            'spark.master': 'spark://spark-cluster-master-svc:7077',
         },
         jars=','.join([
             '/opt/bitnami/spark/jars/spark-sql-kafka-0-10_2.12-3.5.4.jar',
