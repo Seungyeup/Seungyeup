@@ -54,7 +54,7 @@ with DAG(
         postgres_conn_id='postgres_default',
         sql="""
         SELECT COUNT(*) 
-          FROM your_target_table
+          FROM user_events_stream
         """,
     )
 
