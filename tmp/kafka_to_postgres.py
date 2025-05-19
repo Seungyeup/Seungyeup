@@ -13,7 +13,7 @@ default_args = {
 with DAG(
     dag_id='kafka_to_postgres_batch',
     default_args=default_args,
-    start_date=datetime(2025, 5, 20),
+    start_date=datetime(2025, 4, 20),
     schedule_interval='@daily',   # 필요에 맞게 바꿔주세요
     catchup=False,
 ) as dag:
