@@ -33,6 +33,7 @@ spec:
     onSubmissionFailureRetryInterval: 20
 
   driver:
+    labels: {}
     serviceAccount: spark
     cores: 1
     memory: 1g
