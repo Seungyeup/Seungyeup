@@ -12,8 +12,8 @@ default_args = {
 with DAG(
     dag_id='sparkapp_kafka_to_postgres',
     default_args=default_args,
-    start_date=datetime(2025, 5, 19),
-    schedule_interval='@daily',
+    #start_date=datetime(2025, 5, 19),
+    schedule_interval='None',
     catchup=False,
 ) as dag:
 
