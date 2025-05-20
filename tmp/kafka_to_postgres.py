@@ -22,7 +22,7 @@ with DAG(
         namespace='spark',
         application_file='kafka-to-postgres-batch.yaml',
         kubernetes_conn_id='kubernetes_default',
-        do_xcom_push=True,              # CR 상태를 XCom으로 받아올 수 있음
+        do_xcom_push=False,              # CR 상태를 XCom으로 받아올 수 있음
     )
 
     submit_sparkapp
